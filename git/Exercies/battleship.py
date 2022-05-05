@@ -1,4 +1,4 @@
-'''Meta interview, interview question 1, battlehip
+'''Meta interview, interview question 1, battleship
    Umut Ceylan '''
 
 import numpy as np
